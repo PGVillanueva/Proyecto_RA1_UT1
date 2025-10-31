@@ -13,7 +13,7 @@
 - Hot-swap según controladora; no lleva alimentación (va por conector SATA power).
 
 ## Fotos
-![Cable SATA](../../../assets/img/11-conectores_datos/sata_cable.jpg "Cable SATA")
+![Cable SATA](../../../assets/img/11-conectores_datos/SATA%20data.jpg "Cable SATA")
 
 ## Fuentes
-- 
+-  [https://ibericavip.com/](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/)

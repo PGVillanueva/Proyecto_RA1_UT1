@@ -1,7 +1,6 @@
 
 # Conectores de datos
-
-**Mínimos obligatorios:** SATA, M.2 (NVMe/SATA).  
-*Opcional:* U.2, SAS elige uno.
-
-👉 Crea **fichas** en `fichas/` duplicando `plantilla_ficha.md` y mira `ejemplo_sata.md`.
+[SATA](fichas/sata.md)<br>
+[M.2 (NVMe/SATA)](fichas/NVMe_SATA_m2.md)<br>
+[U.2](fichas/u2.md)<br>
+[SAS](fichas/SAS.md)<br>
