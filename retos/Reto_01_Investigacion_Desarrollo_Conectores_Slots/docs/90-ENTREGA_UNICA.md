@@ -52,7 +52,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Estándar 12VHPRW 2.0 version PCIe 5.0 obsoleto y reemplazado por 12V-2x6 para la version PCIe 5.1
 
 ## Fotos
-![12V-2x6 vs 12VHPWR](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/12VHPWR.jpg "12V-2x6 vs 12VHPWR")
+![12V-2x6 vs 12VHPWR](../assets/img/10-conectores_internos/12VHPWR.jpg "12V-2x6 vs 12VHPWR")
 
 ## Fuentes
 - [https://elchapuzasinformatico.com](https://elchapuzasinformatico.com/2023/09/conector-12v-2x6-vs-12vhpwr/)
@@ -71,7 +71,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Estándar ATX12V 2.x. No confundir con el EPS de CPU (4/8 pines).
 
 ## Fotos
-![ATX 24p](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/atx24p.jpg "ATX 24p")
+![ATX 24p](../assets/img/10-conectores_internos/atx24p.jpg "ATX 24p")
 
 ## Fuentes
 - [https://www.profesionalreview.com](https://www.profesionalreview.com/2018/11/10/alimentacion-atx-24-pines-eps/)
@@ -91,7 +91,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Ambos son intercambiables, solo que EPS12 nunca viene en 4+4.
 
 ## Fotos
-![EPS 8p (4+4)](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/ESP%208p.png "EPS 8p (4+4)")
+![EPS 8p (4+4)](../assets/img/10-conectores_internos/ESP%208p.png "EPS 8p (4+4)")
 
 ## Fuentes
 - [https://www.reddit.com](https://www.reddit.com/r/buildapc/comments/6wez86/44pin_eps_vs_8_pin_eps/?tl=es-es)
@@ -111,7 +111,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Hay machos y hembas.
 
 ## Fotos
-![Molex](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/Molex.jpg "Molex")
+![Molex](../assets/img/10-conectores_internos/Molex.jpg "Molex")
 
 ## Fuentes
 - [https://www.profesionalreview.com](https://www.profesionalreview.com/2019/12/31/conector-molex-todo-lo-que-necesitas-saber/)
@@ -131,7 +131,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Las fuentes de alimentacion antiguas suelen traer solo de 6 pines.
 
 ## Fotos
-![PEG](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/peg-6p.jpg "PEG")
+![PEG](../assets/img/10-conectores_internos/peg-6p.jpg "PEG")
 
 ## Fuentes
 - [https://www.geeknetic.es](https://www.geeknetic.es/Conector-PEG/que-es-y-para-que-sirve)
@@ -150,7 +150,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Importante guiarse de la forma para saber el lado de conexion correctos.
 
 ## Fotos
-![SATA Power](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/10-conectores_internos/SATA.jpg "SATA Power")
+![SATA Power](../assets/img/10-conectores_internos/SATA.jpg "SATA Power")
 
 ## Fuentes
 - [https://ibericavip.com](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/)
@@ -185,7 +185,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Ideal para edición de vídeo, videojuegos y usos que requieren alto rendimiento
 
 ## Fotos
-![NVMe SATA](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/11-conectores_datos/SATA%20%20Y%20NVM.jpg "NVMe SATA")
+![NVMe SATA](../assets/img/11-conectores_datos/SATA%20%20Y%20NVM.jpg "NVMe SATA")
 
 ## Fuentes
 - [https://www.chuwi.com](https://www.chuwi.com/es/news/items/2834.html)
@@ -205,7 +205,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Hot-swap , alto rendimiento, velocidad ,fiabilidad y durabilidad.
 
 ## Fotos
-![Cable SAS](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/11-conectores_datos/SAS.jpg "Cable SAS")
+![Cable SAS](../assets/img/11-conectores_datos/SAS.jpg "Cable SAS")
 
 ## Fuentes
 - [https://es.wikipedia.org](https://es.wikipedia.org/wiki/Serial_Attached_SCSI)<br>
@@ -225,7 +225,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Hot-swap según controladora; no lleva alimentación (va por conector SATA power).
 
 ## Fotos
-![Cable SATA](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/11-conectores_datos/SATA%20data.jpg "Cable SATA")
+![Cable SATA](../assets/img/11-conectores_datos/SATA%20data.jpg "Cable SATA")
 
 ## Fuentes
 -  [https://ibericavip.com/](https://ibericavip.com/blog/pc-workstation/guia-para-principiantes-sobre-cables-sata-todo-lo-que-necesitas-saber/)
@@ -244,7 +244,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Hot-swap según controladora; no lleva alimentación (va por conector SATA power).
 
 ## Fotos
-![interfaz U.2](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/11-conectores_datos/U2.jpeg "interfaz U.2")
+![interfaz U.2](../assets/img/11-conectores_datos/U2.jpeg "interfaz U.2")
 
 ## Fuentes
 - [https://hardzone.es](https://hardzone.es/reportajes/que-es/interfaz-u-2-ssd/)
@@ -269,7 +269,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Ancho de banda efectivo depende de generación y carriles disponibles (CPU/Chipset).
 
 ## Fotos
-![PCIe](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/12-slots_expansion/PCIeX.png "PCIe")
+![PCIe](../assets/img/12-slots_expansion/PCIeX.png "PCIe")
 
 ## Fuentes
 - [https://www.geeknetic.es](https://www.geeknetic.es/Guia/2702/PCI-Express-Caracteristicas-y-Velocidad-de-Todas-sus-Versiones.html)
@@ -290,7 +290,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Ancho de banda efectivo depende de generación y carriles disponibles (CPU/Chipset).
 
 ## Fotos
-![PCIe x16](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/12-slots_expansion/PCIeX16.png "PCIe x16")
+![PCIe x16](../assets/img/12-slots_expansion/PCIeX16.png "PCIe x16")
 
 ## Fuentes
 - [https://www.geeknetic.es](https://www.geeknetic.es/Guia/2702/PCI-Express-Caracteristicas-y-Velocidad-de-Todas-sus-Versiones.html)
@@ -310,7 +310,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Gen 7 en desarollo con velocidades de 31.52 GB/s a 60.50 GB/s .
 
 ## Fotos
-![M.2](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/12-slots_expansion/M2.jpg "M.2")
+![M.2](../assets/img/12-slots_expansion/M2.jpg "M.2")
 
 ## Fuentes
 - [https://hardzone.es](https://hardzone.es/tutoriales/rendimiento/velocidad-pci-express-pcie/)
@@ -334,7 +334,7 @@ Post nota: Apreciar el tiempo dedicado.
 - Algunos cables incluyen un botón de presión para evitar desconexiones accidentales (no todos lo tienen).
 
 ## Fotos
-![DP](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/DP.jpg "DP")
+![DP](../assets/img/20-conectores_externos/DP.jpg "DP")
 
 ## Fuentes
 - [https://en.wikipedia.org](https://en.wikipedia.org/wiki/DisplayPort)
@@ -357,7 +357,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 
 
 ## Fotos
-![HDMI](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/hdmi21.jpg "HDMI")
+![HDMI](../assets/img/20-conectores_externos/hdmi21.jpg "HDMI")
 
 ## Fuentes
 -  [https://es.wikipedia.org](https://es.wikipedia.org/wiki/High-Definition_Multimedia_Interface)
@@ -376,7 +376,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 - Pestaña de plástico que fija el conector y evita desconexiones.
 
 ## Fotos
-![RJ45](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/rj45.jpeg "RJ45")
+![RJ45](../assets/img/20-conectores_externos/rj45.jpeg "RJ45")
 
 ## Fuentes
 - [https://es.wikipedia.org](https://es.wikipedia.org/wiki/RJ-45)
@@ -395,7 +395,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 - Hay diferentes versiones con diferentes colores dependiendo del fabricante.
 
 ## Fotos
-![USB-A](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/usb_a.jpg "USB-A")
+![USB-A](../assets/img/20-conectores_externos/usb_a.jpg "USB-A")
 
 ## Fuentes
 - [https://usb.org/](https://usb.org/)
@@ -416,7 +416,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 - Variante USB 3.0: Versión Tipo B con extensión adicional (más alta) e interior azul.
 
 ## Fotos
-![USB-B](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/usb%20b.jpg "USB-B")
+![USB-B](../assets/img/20-conectores_externos/usb%20b.jpg "USB-B")
 
 ## Fuentes
 - [https://usb.org/](https://usb.org)
@@ -436,7 +436,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 - Requisitos de cable para 40 Gbps/240 W; DP Alt Mode para vídeo si no es TB.
 
 ## Fotos
-![USB-C](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/usbc.jpeg "USB-C")
+![USB-C](../assets/img/20-conectores_externos/usbc.jpeg "USB-C")
 
 ## Fuentes
 - [https://usb.org/](https://usb.org)
@@ -456,7 +456,7 @@ HDMI 2.2 96 Gbps 12K a 120 Hz, o 4K a 480 fps<br>
 - VGA es conocido como un "arreglo" en lugar de un "adaptador".
 
 ## Fotos
-![VGA](/retos/Reto_01_Investigacion_Desarrollo_Conectores_Slots/assets/img/20-conectores_externos/vga.jpeg "VGA")
+![VGA](../assets/img/20-conectores_externos/vga.jpeg "VGA")
 
 ## Fuentes
 - [https://en.wikipedia.org](https://es.wikipedia.org/wiki/Video_Graphics_Array)
